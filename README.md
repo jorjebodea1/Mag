@@ -1,1 +1,1 @@
-Project documentation is in the file named Mag description
+Project documentation is in the file named Mag documentation.
